@@ -1,1 +1,15 @@
 # JAVA-PROGRAMMING_1
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: Kavyasri peddaboina 
+
+**INTERN ID**: CT6WGQV
+
+**DOMAIN**: Java Programming
+
+**BATCH DURATION**: December 25th,2024 to February 10th,2025
+
+**MENTOR NAME**: Neela Santhosh Kumar
+
+# ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
